@@ -1,0 +1,128 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/03/2022, 10:55:36
+    Author     : sala305b
+*/
+body{
+    font-family: "sans-serif";
+    background-color: white;
+    color:white;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.espaco{
+    width: 240px;
+}
+.titulo{
+    font-size: 30px;
+    margin:0;
+}
+.tabela{
+    background-color: #3C3C3C;
+}
+.fundo{
+    background-color: #333;
+}
+
+a.entrar{
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 8px 5px 8px;
+    background-color: orange;
+    text-decoration: none;
+    color: white;
+}
+.tabela2{
+    margin-top: 10px;
+    background-color: #232323;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.tabela2 a{
+    color: #C0BAB6;
+    text-decoration: none;
+}
+.tdesq{
+    background-color: #464646;
+    font-size: 15px;
+    font-weight: bold;
+}
+#meup1_1{
+    font-size: 20px;
+    color: #989898;
+}
+.read{
+    text-align: right;
+    font-size: 15px;
+    color: orange;
+    width: 100%;
+}
+.tddir{
+    background-color: #333333;
+    width: 630px;
+    height: 300px;
+}
+#meup1_3{
+    color: #f8f8f8;
+    font-size: 20px;
+    text-align: center;
+}
+.table2{
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    border: 0;  
+}
+.espaco2{
+    width: 380px;
+    
+}
+#meuh1{
+    color: #989898;
+}
+
+#h1_2{
+    color: #979797;
+}
+
+.espaco3{
+    width: 370px;
+}
+
+.h1baixo{
+    color: silver;
+    background-color: white;
+    font-size: 10px;
+    font-weight: bold;
+}
+.td80{
+    display: inline-block;
+    background-color: black;
+    width: 65px;
+    height: 65px;
+    text-align: center;
+}
+.espaco4{
+    width: 340px;
+}
+.h3{
+    color: #ff9900;
+    text-align: center;
+}
+.espaco5{
+    width: 1070px;
+}
+
+.bordas{
+    padding: 3px;
+    border: 1px #AAA solid;
+    width: 130px;
+    height: 130px;
+}
